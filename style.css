@@ -286,7 +286,12 @@ a:hover {
 #bloc-2-services p {
     font-size: 11px;
 }
-
+.center-text {
+    font-size: 36px!important;
+    text-transform: initial;
+    font-weight: 400;
+    line-height: 1.1;
+}
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -651,7 +656,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -781,7 +785,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
